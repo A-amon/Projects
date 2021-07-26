@@ -16,13 +16,13 @@ List of projects you should definitely check out! 😀
 
 <br>
 
-VSCode extensions:
+VSCode extensions: 🤖
 > Merge JSON files easily with [JSON Merger](https://github.com/A-amon/json-merger)
 
 <br>
 
 <details>
-  <summary>More awesome stuffs!</summary> 
+  <summary>More awesome stuffs! 😉</summary> 
   <br>
   <table>
     <tr>
