@@ -49,5 +49,11 @@ VSCode extensions: 🤖
       <td><a href="https://a-amon.github.io/Ping/">Demo</a></td>
       <td><a href="https://github.com/A-amon/Ping">Link</td>
     </tr>
+     <tr>
+      <td>Shortly</td>
+      <td><strong>Languages:</strong> HTML, SCSS, JS</td>
+      <td><a href="https://a-amon.github.io/Shortly/">Demo</a></td>
+      <td><a href="https://github.com/A-amon/Shortly">Link</td>
+    </tr>
   </table>
 </details>
