@@ -38,6 +38,12 @@ VSCode extensions: 🤖
       <td><a href="https://github.com/A-amon/Room-Homepage">Link</td>
     </tr>
     <tr>
+      <td>Order Summary</>
+      <td><strong>Languages:</strong> HTML, SCSS </td>
+      <td><a href="https://a-amon.github.io/Order-Summary/">Demo</a></td>
+      <td><a href="https://github.com/A-amon/Order-Summary">Link</a></td>
+    </tr>
+    <tr>
       <td>Base Apparel Subscribe</td>
       <td><strong>Languages:</strong> HTML, SCSS, JS</td>
       <td><a href="https://a-amon.github.io/Base-Apparel/">Demo</a></td>
