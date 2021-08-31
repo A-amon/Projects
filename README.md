@@ -9,6 +9,7 @@ List of projects you should definitely check out! 😀
 |Rock-Paper-Scissors|**Languages:** HTML, SCSS, JS|[Demo](https://a-amon.github.io/Rock-Paper-Scissors/)| [Link](https://github.com/A-amon/Rock-Paper-Scissors)|
 |Countdown Timer|**Languages:** HTML, SCSS, JS|[Demo](https://a-amon.github.io/Countdown-Timer/)| [Link](https://github.com/A-amon/Countdown-Timer)|
 |Calculator|**Languages:** HTML, SCSS, JS <br>**Testing:** MochaJS|[Demo](https://a-amon.github.io/Calculator/)| [Link](https://github.com/A-amon/Calculator)|
+|Simple Blog|**Languages:** HTML, SCSS, JS <br>**Framework:** ReactJS| - | [Link](https://github.com/A-amon/blog)|
 |Random Quote Generator|**Languages:** HTML, SCSS, JS <br>**Framework:** ReactJS|[Demo](https://a-amon.github.io/Random-Quote-Generator/)| [Link](https://github.com/A-amon/Random-Quote-Generator)|
 |Todo|**Languages:** HTML, SCSS, JS <br>**Framework:** ReactJS|[Demo](https://a-amon.github.io/Todo/)| [Link](https://github.com/A-amon/Todo)|
 |Job Listing|**Languages:** HTML, SCSS, JS <br>**Framework:** ReactJS|[Demo](https://a-amon.github.io/Job-Listing/)| [Link](https://github.com/A-amon/Job-Listing)|
