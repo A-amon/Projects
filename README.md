@@ -33,6 +33,12 @@ VSCode extensions: 🤖
       <th>Repo</th>
     </tr>
     <tr>
+      <td>Time Tracking Dashboard</td>
+      <td><strong>Languages:</strong> HTML, SCSS, JS</td>
+      <td><a href="https://a-amon.github.io/Time-tracking-dashboard/">Demo</a></td>
+      <td><a href="https://github.com/A-amon/Time-tracking-dashboard">Link</td>
+    </tr>
+    <tr>
       <td>Room Homepage</td>
       <td><strong>Languages:</strong> HTML, SCSS, JS</td>
       <td><a href="https://a-amon.github.io/Room-Homepage/">Demo</a></td>
