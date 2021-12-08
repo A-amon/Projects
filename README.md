@@ -14,6 +14,7 @@ List of projects you should definitely check out! 😀
 |Todo|**Languages:** HTML, SCSS, JS <br>**Framework:** ReactJS|[Demo](https://a-amon.github.io/Todo/)| [Link](https://github.com/A-amon/Todo)|
 |Job Listing|**Languages:** HTML, SCSS, JS <br>**Framework:** ReactJS|[Demo](https://a-amon.github.io/Job-Listing/)| [Link](https://github.com/A-amon/Job-Listing)|
 |WindBnb|**Languages:** HTML, SCSS, JS <br>**Framework:** ReactJS|[Demo](https://a-amon.github.io/windbnb/)| [Link](https://github.com/A-amon/windbnb)|
+|Pokedex (Native mobile)|**Languages:** JS <br>**Framework:** React Native|-|[Link](https://github.com/A-amon/Pokedex)|
 
 <br>
 
