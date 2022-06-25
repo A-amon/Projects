@@ -6,7 +6,8 @@ List of projects you should definitely check out! 😀
 |----|----|----|----|
 |Chat desktop app|**Languages:** C# <br>**Framework:** WPF|-| [Link](https://github.com/A-amon/ChatClone)|
 |Kart Racing Game|**Languages:** Java|-| [Link](https://github.com/A-amon/Racing-Kart-Game)|
-|Spline Wrapper (wrapper component)|**Languages:** HTML, JS <br>**Framework:** React|-| [Link](https://github.com/A-amon/SplineWrapper)|
+|Spline Wrapper (wrapper component)|**Languages:** HTML, JS <br>**Framework:** ReactJS|-| [Link](https://github.com/A-amon/SplineWrapper)|
+|Portfolio v1|**Languages:** HTML, SCSS, JS <br>**Framework:** ReactJS|[Demo](https://portfolio-amon.netlify.app/)| [Link](https://github.com/A-amon/Portfolio)|
 |Loop Studios|**Languages:** HTML, SCSS, JS|[Demo](https://a-amon.github.io/LoopStudios/)| [Link](https://github.com/A-amon/LoopStudios)|
 |Rock-Paper-Scissors|**Languages:** HTML, SCSS, JS|[Demo](https://a-amon.github.io/Rock-Paper-Scissors/)| [Link](https://github.com/A-amon/Rock-Paper-Scissors)|
 |Countdown Timer|**Languages:** HTML, SCSS, JS|[Demo](https://a-amon.github.io/Countdown-Timer/)| [Link](https://github.com/A-amon/Countdown-Timer)|
