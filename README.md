@@ -6,18 +6,19 @@ List of projects you should definitely check out! 😀
 |----|----|----|----|
 |Chat desktop app|**Languages:** C# <br>**Framework:** WPF|-| [Link](https://github.com/A-amon/ChatClone)|
 |Kart Racing Game|**Languages:** Java|-| [Link](https://github.com/A-amon/Racing-Kart-Game)|
-|Spline Wrapper (wrapper component)|**Languages:** HTML, JS <br>**Framework:** ReactJS|-| [Link](https://github.com/A-amon/SplineWrapper)|
-|Portfolio v1|**Languages:** HTML, SCSS, JS <br>**Framework:** ReactJS|[Demo](https://portfolio-amon.netlify.app/)| [Link](https://github.com/A-amon/Portfolio)|
+|Spline Wrapper (wrapper component)|**Languages:** HTML, JS <br>**Library:** ReactJS|-| [Link](https://github.com/A-amon/SplineWrapper)|
+|Timelines Game|**Languages:** HTML, JS, SCSS<br>**Library:** ReactJS|[Demo](https://timelines-ruby.vercel.app/)|-|
+|Portfolio v1|**Languages:** HTML, SCSS, JS <br>**Library:** ReactJS|[Demo](https://portfolio-amon.netlify.app/)| [Link](https://github.com/A-amon/Portfolio)|
 |Loop Studios|**Languages:** HTML, SCSS, JS|[Demo](https://a-amon.github.io/LoopStudios/)| [Link](https://github.com/A-amon/LoopStudios)|
 |Rock-Paper-Scissors|**Languages:** HTML, SCSS, JS|[Demo](https://a-amon.github.io/Rock-Paper-Scissors/)| [Link](https://github.com/A-amon/Rock-Paper-Scissors)|
 |Countdown Timer|**Languages:** HTML, SCSS, JS|[Demo](https://a-amon.github.io/Countdown-Timer/)| [Link](https://github.com/A-amon/Countdown-Timer)|
 |Calculator|**Languages:** HTML, SCSS, JS <br>**Testing:** MochaJS|[Demo](https://a-amon.github.io/Calculator/)| [Link](https://github.com/A-amon/Calculator)|
-|Simple Blog|**Languages:** HTML, SCSS, JS <br>**Framework:** ReactJS| - | [Link](https://github.com/A-amon/blog)|
-|Random Quote Generator|**Languages:** HTML, SCSS, JS <br>**Framework:** ReactJS|[Demo](https://a-amon.github.io/Random-Quote-Generator/)| [Link](https://github.com/A-amon/Random-Quote-Generator)|
-|Todo|**Languages:** HTML, SCSS, JS <br>**Framework:** ReactJS|[Demo](https://a-amon.github.io/Todo/)| [Link](https://github.com/A-amon/Todo)|
-|Job Listing|**Languages:** HTML, SCSS, JS <br>**Framework:** ReactJS|[Demo](https://a-amon.github.io/Job-Listing/)| [Link](https://github.com/A-amon/Job-Listing)|
-|WindBnb|**Languages:** HTML, SCSS, JS <br>**Framework:** ReactJS|[Demo](https://a-amon.github.io/windbnb/)| [Link](https://github.com/A-amon/windbnb)|
-|Pokedex (Native mobile)|**Languages:** JS <br>**Framework:** React Native|-|[Link](https://github.com/A-amon/Pokedex)|
+|Simple Blog|**Languages:** HTML, SCSS, JS <br>**Library:** ReactJS| - | [Link](https://github.com/A-amon/blog)|
+|Random Quote Generator|**Languages:** HTML, SCSS, JS <br>**Library:** ReactJS|[Demo](https://a-amon.github.io/Random-Quote-Generator/)| [Link](https://github.com/A-amon/Random-Quote-Generator)|
+|Todo|**Languages:** HTML, SCSS, JS <br>**Library:** ReactJS|[Demo](https://a-amon.github.io/Todo/)| [Link](https://github.com/A-amon/Todo)|
+|Job Listing|**Languages:** HTML, SCSS, JS <br>**Library:** ReactJS|[Demo](https://a-amon.github.io/Job-Listing/)| [Link](https://github.com/A-amon/Job-Listing)|
+|WindBnb|**Languages:** HTML, SCSS, JS <br>**Library:** ReactJS|[Demo](https://a-amon.github.io/windbnb/)| [Link](https://github.com/A-amon/windbnb)|
+|Pokedex (Native mobile)|**Languages:** JS <br>**Library:** React Native|-|[Link](https://github.com/A-amon/Pokedex)|
 
 <br>
 
